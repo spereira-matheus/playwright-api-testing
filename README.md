@@ -1,3 +1,5 @@
+![Playwright API CI - Smoke](https://github.com/spereira-matheus/playwright-api-testing/actions/workflows/ci-smoke.yml/badge.svg)
+
 # Playwright API Testing (JavaScript)
 
 ## Overview
